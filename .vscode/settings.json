@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "input-event-codes.h": "c",
+        "stdio.h": "c",
+        "fs.h": "c",
+        "atomic": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "sstream": "c",
+        "fcntl.h": "c",
+        "input.h": "c"
+    },
+    "cSpell.words": [
+        "ABSX",
+        "Cmtx",
+        "EVBIT",
+        "FFBIT",
+        "jefd",
+        "jevb",
+        "msev",
+        "msevb",
+        "msfd",
+        "uifd",
+        "uinput"
+    ]
+}
